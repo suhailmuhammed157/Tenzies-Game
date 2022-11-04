@@ -8,6 +8,9 @@ body{
   font-family: 'karla';  
   background-color: #0B2434;
   padding: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 
 }
 
@@ -21,8 +24,6 @@ main{
   flex-direction: column;
   text-align: center;
   gap: 10px;
-  /* justify-content: center; */
-  /* align-items: center; */
 
 }
 
